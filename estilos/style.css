@@ -149,6 +149,6 @@ span { /* para alterar o destaque em texto */
         width: auto; /* ou 100% / ajusta ao espaço disponível */
     }
     .apresentacao-imagem {
-        width: auto; /* imagem */
+        width: 90%; /* imagem */
     }
 }
